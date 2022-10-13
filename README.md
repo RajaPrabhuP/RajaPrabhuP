@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raja Prabhu P</h1>
-<h3 align="center">Test Automation Enthusiast | Selenium | Rest Assured | JAVA | Consistent Learner | Problem Solver</h3>
+<h3 align="center">SDET with 4 yrs of hands on experience in functional
+    and automation testing using Selenium with TestNg.
+    Solid hands on experience in web application
+    automation using Selenium. Good knowledge in API
+    Testing. Consistent learner with highly productive and
+    well versed with the latest automation technology
+    stack.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Data Structure Algorithm and Design Pattern**
