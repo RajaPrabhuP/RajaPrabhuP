@@ -10,7 +10,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Data Structure Algorithm and Design Pattern**
 
+- 🔭 I’m currently working on **enhancing my problem-solving skills.**
+
 - 📫 How to reach me **p.rajaprabhu.be@gmail.com**
+
+- 🤝 I’m looking for help with **landing on a product organization as an SDET.**
+
+- 💬 Ask me about **Test Engineering, Test Automation, Test Framework Development, Test Case , Test Data Enumeration, Problem Solving, Design Pattern, Selenium.**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
